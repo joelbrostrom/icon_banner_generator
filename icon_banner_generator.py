@@ -59,7 +59,7 @@ def generate_all_icons(base_icon_path):
     # Define output paths and banner texts
     icons = [
         ("dev_icon.png", "DEV", (255, 0, 0)),
-        ("staging_icon.png", "STG", (255, 165, 0)),
+        ("stg_icon.png", "STG", (255, 165, 0)),
         ("prod_icon.png", "PROD", (0, 128, 0))
     ]
 
