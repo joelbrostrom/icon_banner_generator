@@ -2,7 +2,7 @@
 Adds banners to app icon
 Original icon should be 512x512 pixels.
 
-1. save image without banner as assets/icons/icon.png (or change the code to pint to your preffered location)
+1. save the icon without a banner as assets/icons/icon.png (or change the code to point to your preffered location)
 2. run `python3 icon_banner_generator.py`
 3. the new icons will be generated in assets/icons.
 
